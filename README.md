@@ -3,3 +3,4 @@ Projekt Fem
 from scipy import *
 from pylab import *
 form datetime import *
+#Holgers redigering
